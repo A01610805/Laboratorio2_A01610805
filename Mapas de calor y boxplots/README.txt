@@ -16,3 +16,5 @@ Definitivamente no estan en rangos similares, y esto sí afecta porque se compli
 
 - ¿Puedes encontrar grupos qué se parezcan? ¿Qué grupos son estos?
 En este dataset en epecífico, no existen grupos que se parezcan.
+
+Link al repositorio: https://github.com/A01610805/Laboratorio2_A01610805/tree/main

@@ -20,3 +20,6 @@ Se volverían menos representativos.
 
 - ¿Qué puedes decir de los datos basándose en los centros?
 Que hay más datos bajos que altos, pero en general, los diferentes grupos están muy esparcidos.
+
+
+Link al repositorio: https://github.com/A01610805/Laboratorio2_A01610805/tree/main
